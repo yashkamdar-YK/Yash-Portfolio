@@ -37,7 +37,7 @@ const ACTIONS: Array<NavigationItem> = [
 	},
 	{
 		type: NavigationItemType.LINK,
-		href: 'https://drive.google.com/file/d/1dhXuqaeSToublUoIXlgmWvC3ELACDWvn/view?usp=sharing',
+		href: 'https://drive.google.com/file/d/1GSHo_Yf8eaR01hBTmUdiS5moZKmprLPf/view?usp=sharing',
 		icon: <Icon className="mr-3" icon="mdi:resume" />,
 		text: 'Resume',
 	},
